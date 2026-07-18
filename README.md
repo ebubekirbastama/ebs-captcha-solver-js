@@ -1,0 +1,1 @@
+# ebs-captcha-solver-js
